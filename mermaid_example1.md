@@ -25,4 +25,4 @@ Visual Studio Code で Markdown Preview Mermaid Support をインストールし
 
 
 
-引用サイト [World Wide Web Consortium (W3C)](https://usefuledge.com/vscodemermaidsupport.html/)
+引用サイト [Visual Studio Code で Mermaid をプレビューする方法](https://usefuledge.com/vscodemermaidsupport.html/)
